@@ -1,0 +1,22 @@
+[
+  {
+    "domain": "example.com",
+    "scope": "domain with subdomains",
+    "domainRating": 42,
+    "backlinks": 12000,
+    "referringDomains": 370,
+    "dofollowBacklinksPercent": 61,
+    "dofollowReferringDomainsPercent": 74,
+    "scrapedAt": "2026-10-15T00:00:00.000Z"
+  },
+  {
+    "domain": "example.org",
+    "scope": "domain with subdomains",
+    "domainRating": 27,
+    "backlinks": 2100,
+    "referringDomains": 95,
+    "dofollowBacklinksPercent": 54,
+    "dofollowReferringDomainsPercent": 68,
+    "scrapedAt": "2026-10-15T00:00:00.000Z"
+  }
+]
